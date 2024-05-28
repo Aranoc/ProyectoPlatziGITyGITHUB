@@ -1,46 +1,6 @@
 # ProyectoPlatziGITyGITHUB
 Proyecto Blog, git y github
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/github-markdown-css">
-<style>
-  body {
-    margin: 30px;
-    padding: 20px;
-    background-color: #f4f4f4;
-  }
-  
-  .markdown-body {
-    box-sizing: border-box;
-    min-width: 200px;
-    max-width: 980px;
-    margin: 0 auto;
-    padding: 45px;
-    border-radius: 5px;
-    background-color: #fff;
-    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
-  }
-  
-  h1 {
-    font-size: 36px;
-    color: #333;
-    border-bottom: 1px solid #eaecef;
-    margin-bottom: 20px;
-  }
-  
-  h2 {
-    font-size: 24px;
-    color: #555;
-    margin-top: 20px;
-  }
-  
-  ul {
-    list-style-type: none;
-    padding: 0;
-  }
-  
-  li {
-    margin-bottom: 10px;
-  }
-</style>
 
 
 # Curriculum Vitae
