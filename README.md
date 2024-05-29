@@ -44,5 +44,6 @@ Proyecto Blog, git y github
 - Programación
 - Tecnología
 - Viajes
+- CREADO POR EL PLATZI TEAM
 
 [Ver Cursos Terminados](https://platzi.com/p/Antonio-Estrada/)
