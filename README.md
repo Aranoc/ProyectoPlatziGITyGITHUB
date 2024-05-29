@@ -45,5 +45,8 @@ Proyecto Blog, git y github
 - Tecnología
 - Viajes
 - CREADO POR EL PLATZI TEAM
+- INCLUYE EJEMPLOS EN WINDOWS, LINUX Y MAC
+- DISPONIBLE PARA TODAS LAS EDADES
 
 [Ver Cursos Terminados](https://platzi.com/p/Antonio-Estrada/)
+git
